@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.joblib
+*.pcapng
+*.pcap
+*.csv
+.env
+*.log
+*.bak
+*.pcapng
+*.pcap
